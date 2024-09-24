@@ -15,3 +15,9 @@ Por fim houve uma explicação das áreas em que a computação em nuvem é impo
 Nesse lab foi explicado a divisão do SLA(Service Limit Agreement) por tempo de inatividade esperado para cada categoria,e foi explicada a necessidade dessa divisão e como ela impacta os custos operacionais do uso da nuvem.
 
 Também foi explicada a diferença entre as zonas de disponibilidade, nível de desempenho e redundância como opções para criar uma conta de armazenamento na azure,e como elas impactam as características de nuvem como custo,confiabilidade,usabilidade,etc.
+
+### >tipos-de-servico-de-nuvem-laboratorio
+Nesse lab aprendi as especificações necessárias para a criação de uma máquina virtual nos padrões esperados para o aprendizado do curso de modo alusivo a realidade e as estratégias para fazer isso
+
+Também foi mostrado como fazer a criação de um servidor de um banco de dados SQL e as especificidades disso na plataforma da Azure
+
